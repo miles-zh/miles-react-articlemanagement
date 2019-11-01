@@ -65,7 +65,7 @@ const mapState=state=>{
                         <Spin spinning={this.state.isUpLoading}>
                             {this.props.avatarUrl ? <img src={this.props.avatarUrl} alt="avatar" style={{ width: '100%' }} /> : <span>点击上传</span>}
                         </Spin>
-                    
+                    不是更方便煞笔煞笔
                 </Upload>
                 </Card>
                 
